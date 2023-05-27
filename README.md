@@ -28,6 +28,9 @@ THEN the password is either displayed in an alert or written to the page
 
 ![Alt text](/assets/images/password%20generator.png)
 
+Below is a link to my deployed application:
+https://aaronmko.github.io/password-generator/
+
 ## Submission
 
 You are required to submit BOTH of the following for review:
